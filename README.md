@@ -31,7 +31,11 @@
     * [将NumPy数组转化为Torch张量](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/What_is_PyTorch/什么是PyTorch.md#%E5%B0%86numpy%E6%95%B0%E7%BB%84%E8%BD%AC%E5%8C%96%E4%B8%BAtorch%E5%BC%A0%E9%87%8F)
   * [CUDA上的张量](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/What_is_PyTorch/什么是PyTorch.md#cuda上的张量)
 
-### Autograd：自动求导（Autograd: Automatic Differentiation）
+### [Autograd：自动求导（Autograd: Automatic Differentiation）](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Autograd_Automatic_Differentiation/Autograd%EF%BC%9A自动求导.md#autograd%E8%87%AA%E5%8A%A8%E6%B1%82%E5%AF%BC)
+
+  * [张量](#张量)
+  * [梯度](#梯度)
+
 
 ### 神经网络（Neural Networks）
 
