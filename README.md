@@ -1,8 +1,6 @@
 # PyTorch深度学习：60分钟入门与实战
 
-> [Deep Learning with PyTorch A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html#deep-learning-with-pytorch-a-60-minute-blitz) 中文翻译版，部分意译，部分改动
-
-> 翻译不对的地方拜托大家指出~
+> [Deep Learning with PyTorch A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html#deep-learning-with-pytorch-a-60-minute-blitz) 中文翻译版，翻译不对的地方拜托大家指出~
 
 ## 简介
 
@@ -33,8 +31,8 @@
 
 ### [Autograd：自动求导（Autograd: Automatic Differentiation）](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Autograd_Automatic_Differentiation/Autograd%EF%BC%9A自动求导.md#autograd%E8%87%AA%E5%8A%A8%E6%B1%82%E5%AF%BC)
 
-  * [张量](#张量)
-  * [梯度](#梯度)
+  * [张量](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Autograd_Automatic_Differentiation/Autograd%EF%BC%9A自动求导.md#%E5%BC%A0%E9%87%8F)
+  * [梯度](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Autograd_Automatic_Differentiation/Autograd%EF%BC%9A自动求导.md#%E6%A2%AF%E5%BA%A6)
 
 
 ### 神经网络（Neural Networks）
@@ -42,3 +40,12 @@
 ### 训练分类器（Training a Classifier）
 
 ### 数据并行处理（Optional: Data Parallelism）
+
+
+## 版权信息
+
+除非额外说明，本仓库的所有公开文档均遵循 [署名-非商业性使用-相同方式共享 3.0 中国大陆 (CC BY-NC-SA 3.0 CN)](https://creativecommons.org/licenses/by-nc-sa/3.0/cn/) 许可协议。任何人都可以自由地分享、修改本作品，但必须遵循如下条件：
+
+* 署名：必须提到原作者，提供指向此许可协议的链接，表明是否有做修改
+* 非商业性使用：不能对本作品进行任何形式的商业性使用
+* 相同方式共享：若对本作品进行了修改，必须以相同的许可协议共享
