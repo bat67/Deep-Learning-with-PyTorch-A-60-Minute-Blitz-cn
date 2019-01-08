@@ -37,6 +37,11 @@
 
 ### 神经网络（Neural Networks）
 
+  * 定义网络
+  * 损失函数
+  * 反向传播
+  * 更新权重
+
 ### 训练分类器（Training a Classifier）
 
 ### 数据并行处理（Optional: Data Parallelism）
