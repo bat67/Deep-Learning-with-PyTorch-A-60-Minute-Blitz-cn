@@ -35,12 +35,12 @@
   * [梯度](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Autograd_Automatic_Differentiation/Autograd%EF%BC%9A自动求导.md#%E6%A2%AF%E5%BA%A6)
 
 
-### 神经网络（Neural Networks）
+### [神经网络（Neural Networks）](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Neural_Networks/神经网络.md#%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)
 
-  * 定义网络
-  * 损失函数
-  * 反向传播
-  * 更新权重
+  * [定义网络](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Neural_Networks/神经网络.md#定义网络)
+  * [损失函数](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Neural_Networks/神经网络.md#损失函数)
+  * [反向传播](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Neural_Networks/神经网络.md#反向传播)
+  * [更新权重](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Neural_Networks/神经网络.md#更新权重)
 
 ### 训练分类器（Training a Classifier）
 
