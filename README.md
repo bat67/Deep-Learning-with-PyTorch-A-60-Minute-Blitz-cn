@@ -42,7 +42,18 @@
   * [反向传播](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Neural_Networks/神经网络.md#反向传播)
   * [更新权重](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Neural_Networks/神经网络.md#更新权重)
 
-### 训练分类器（Training a Classifier）
+### [训练分类器（Training a Classifier）]()
+
+  * [数据呢？]()
+  * [训练一个图片分类器]()
+    * [1.加载并标准化CIFAR10]()
+    * [2.定义卷积神经网络]()
+    * [3.定义损失函数和优化器]()
+    * [4.训练网络]()
+    * [5.使用测试数据测试网络]()
+  * [在GPU上训练]()
+  * [在多GPU上训练]()
+  * [接下来要做什么？]()
 
 ### 数据并行处理（Optional: Data Parallelism）
 
