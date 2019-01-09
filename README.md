@@ -19,7 +19,7 @@
 
 ## 目录
 
-### [什么是PyTorch？（What is PyTorch?）](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/What_is_PyTorch/什么是PyTorch.md#%E4%BB%80%E4%B9%88%E6%98%AFpytorch)
+### 什么是PyTorch？（What is PyTorch?）
 
   * [入门](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/What_is_PyTorch/什么是PyTorch.md#%E5%85%A5%E9%97%A8)
     * [张量](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/What_is_PyTorch/什么是PyTorch.md#%E5%BC%A0%E9%87%8F)
@@ -29,20 +29,20 @@
     * [将NumPy数组转化为Torch张量](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/What_is_PyTorch/什么是PyTorch.md#%E5%B0%86numpy%E6%95%B0%E7%BB%84%E8%BD%AC%E5%8C%96%E4%B8%BAtorch%E5%BC%A0%E9%87%8F)
   * [CUDA上的张量](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/What_is_PyTorch/什么是PyTorch.md#cuda上的张量)
 
-### [Autograd：自动求导（Autograd: Automatic Differentiation）](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Autograd_Automatic_Differentiation/Autograd%EF%BC%9A自动求导.md#autograd%E8%87%AA%E5%8A%A8%E6%B1%82%E5%AF%BC)
+### Autograd：自动求导
 
   * [张量](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Autograd_Automatic_Differentiation/Autograd%EF%BC%9A自动求导.md#%E5%BC%A0%E9%87%8F)
   * [梯度](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Autograd_Automatic_Differentiation/Autograd%EF%BC%9A自动求导.md#%E6%A2%AF%E5%BA%A6)
 
 
-### [神经网络（Neural Networks）](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Neural_Networks/神经网络.md#%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)
+### 神经网络（Neural Networks）
 
   * [定义网络](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Neural_Networks/神经网络.md#定义网络)
   * [损失函数](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Neural_Networks/神经网络.md#损失函数)
   * [反向传播](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Neural_Networks/神经网络.md#反向传播)
   * [更新权重](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Neural_Networks/神经网络.md#更新权重)
 
-### [训练分类器（Training a Classifier）](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Training_a_Classifier/训练分类器.md#%E8%AE%AD%E7%BB%83%E5%88%86%E7%B1%BB%E5%99%A8)
+### 训练分类器（Training a Classifier）
 
   * [数据呢？](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Training_a_Classifier/训练分类器.md#数据呢)
   * [训练一个图片分类器](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Training_a_Classifier/训练分类器.md#训练一个图片分类器)
