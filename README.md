@@ -57,16 +57,16 @@
 
 ### 选读：数据并行处理（Optional: Data Parallelism）
 
-  * [导入和参数]()
-  * [虚拟数据集]()
-  * [简单模型]()
-  * [创建一个模型和数据并行]()
-  * [运行模型]()
-  * [结果]()
-    * [2个GPU]()
-    * [3个GPU]()
-    * [8个GPU]()
-  * [总结]()
+  * [导入和参数](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Optional_Data_Parallelism/数据并行处理.md#导入和参数)
+  * [虚拟数据集](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Optional_Data_Parallelism/数据并行处理.md#虚拟数据集)
+  * [简单模型](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Optional_Data_Parallelism/数据并行处理.md#简单模型)
+  * [创建一个模型和数据并行](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Optional_Data_Parallelism/数据并行处理.md#创建一个模型和数据并行)
+  * [运行模型](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Optional_Data_Parallelism/数据并行处理.md#运行模型)
+  * [结果](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Optional_Data_Parallelism/数据并行处理.md#结果)
+    * [2个GPU](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Optional_Data_Parallelism/数据并行处理.md#2个gpu)
+    * [3个GPU](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Optional_Data_Parallelism/数据并行处理.md#3个gpu)
+    * [8个GPU](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Optional_Data_Parallelism/数据并行处理.md#8个gpu)
+  * [总结](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Optional_Data_Parallelism/数据并行处理.md#总结)
 
 
 ## 版权信息
