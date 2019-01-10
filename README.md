@@ -55,7 +55,18 @@
   * [在多GPU上训练](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Training_a_Classifier/训练分类器.md#在多gpu上训练)
   * [接下来要做什么？](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Training_a_Classifier/训练分类器.md#接下来要做什么)
 
-### 数据并行处理（Optional: Data Parallelism）
+### 选读：数据并行处理（Optional: Data Parallelism）
+
+  * [导入和参数]()
+  * [虚拟数据集]()
+  * [简单模型]()
+  * [创建一个模型和数据并行]()
+  * [运行模型]()
+  * [结果]()
+    * [2个GPU]()
+    * [3个GPU]()
+    * [8个GPU]()
+  * [总结]()
 
 
 ## 版权信息
