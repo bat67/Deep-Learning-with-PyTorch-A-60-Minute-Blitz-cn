@@ -69,6 +69,13 @@
   * [总结](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Optional_Data_Parallelism/数据并行处理.md#总结)
 
 
+## 类似项目
+
+* [用例子学习 PyTorch](https://github.com/bat67/pytorch-examples-cn)
+* [PyTorch 教程、例子和书籍](https://github.com/bat67/pytorch-tutorials-examples-and-books)
+* [PyTorch 深度学习：60分钟入门与实战](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn)
+
+
 ## 版权信息
 
 除非额外说明，本仓库的所有公开文档均遵循 [署名-非商业性使用-相同方式共享 3.0 中国大陆 (CC BY-NC-SA 3.0 CN)](https://creativecommons.org/licenses/by-nc-sa/3.0/cn/) 许可协议。任何人都可以自由地分享、修改本作品，但必须遵循如下条件：
