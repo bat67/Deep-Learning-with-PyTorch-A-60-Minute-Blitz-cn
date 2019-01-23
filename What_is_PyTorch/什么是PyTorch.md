@@ -62,7 +62,7 @@ tensor([[0.5307, 0.9752, 0.5376],
         [0.2967, 0.9481, 0.1311]])
 ```
 
-构造一个填满0且数据类型为`long`的矩阵:
+构造一个填满`0`且数据类型为`long`的矩阵:
 
 ```python
 x = torch.zeros(5, 3, dtype=torch.long)
@@ -97,8 +97,8 @@ tensor([5.5000, 3.0000])
 x = x.new_ones(5, 3, dtype=torch.double)      # new_* methods take in sizes
 print(x)
 
-x = torch.randn_like(x, dtype=torch.float)    # override dtype!
-print(x)                                      # result has the same size
+x = torch.randn_like(x, dtype=torch.float)    # 重载 dtype!
+print(x)                                      # 结果有相同的size
 ```
 
 输出：
