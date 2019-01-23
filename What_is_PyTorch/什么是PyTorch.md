@@ -339,14 +339,14 @@ CPU上的所有张量(CharTensor除外)都支持转换为NumPy以及由NumPy转�
 
 ```python
 # let us run this cell only if CUDA is available
-# We will use ``torch.device`` objects to move tensors in and out of GPU
+# 我们将使用`torch.device`来将tensor移入和移出GPU
 if torch.cuda.is_available():
     device = torch.device("cuda")          # a CUDA device object
-    y = torch.ones_like(x, device=device)  # directly create a tensor on GPU
-    x = x.to(device)                       # or just use strings ``.to("cuda")``
+    y = torch.ones_like(x, device=device)  # 直接在GPU上创建tensor
+    x = x.to(device)                       # 或者使用`.to("cuda")`方法
     z = x + y
     print(z)
-    print(z.to("cpu", torch.double))       # ``.to`` can also change dtype together!
+    print(z.to("cpu", torch.double))       # `.to`也能在移动时改变dtype
 ```
 
 输出：
