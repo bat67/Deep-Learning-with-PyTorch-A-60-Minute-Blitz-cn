@@ -2,6 +2,9 @@
 
 > [Deep Learning with PyTorch A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html#deep-learning-with-pytorch-a-60-minute-blitz) 中文翻译版，翻译不对的地方拜托大家指出~
 
+>**对PyTorch感兴趣的童鞋欢迎看这个**-->[PyTorch教程、例子和书籍合集](https://github.com/bat67/pytorch-tutorials-examples-and-books)
+
+
 ## 简介
 
 此教程的目标：
