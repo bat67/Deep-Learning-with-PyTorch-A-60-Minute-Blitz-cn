@@ -5,7 +5,22 @@
 >**对PyTorch感兴趣的童鞋欢迎看这个**-->[PyTorch教程、例子和书籍合集](https://github.com/bat67/pytorch-tutorials-examples-and-books)
 
 
-## 简介
+
+- [PyTorch深度学习：60分钟入门与实战](#pytorch深度学习60分钟入门与实战)
+  - [1、简介](#1简介)
+  - [2、环境](#2环境)
+  - [3、目录](#3目录)
+    - [3.1、什么是PyTorch？（What is PyTorch?）](#31什么是pytorchwhat-is-pytorch)
+    - [3.2、Autograd：自动求导](#32autograd自动求导)
+    - [3.3、神经网络（Neural Networks）](#33神经网络neural-networks)
+    - [3.4、训练分类器（Training a Classifier）](#34训练分类器training-a-classifier)
+    - [3.5 选读：数据并行处理（Optional: Data Parallelism）](#35-选读数据并行处理optional-data-parallelism)
+  - [4、类似项目](#4类似项目)
+  - [5、版权信息](#5版权信息)
+
+
+
+## 1、简介
 
 此教程的目标：
 
@@ -15,14 +30,14 @@
 本教程假设读者对`numpy`有基本的了解
 
 
-## 环境
+## 2、环境
 
 * PyTorch版本0.4及以上（[PyTorch 1.0 **稳定版**](https://pytorch.org/get-started/locally/)已经发布，还有什么理由不更新呢~）
 * [torchvision](https://github.com/pytorch/vision) 0.2.1
 
-## 目录
+## 3、目录
 
-### 什么是PyTorch？（What is PyTorch?）
+### 3.1、什么是PyTorch？（What is PyTorch?）
 
   * [入门](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/What_is_PyTorch/什么是PyTorch.md#%E5%85%A5%E9%97%A8)
     * [张量](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/What_is_PyTorch/什么是PyTorch.md#%E5%BC%A0%E9%87%8F)
@@ -32,20 +47,20 @@
     * [将NumPy数组转化为Torch张量](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/What_is_PyTorch/什么是PyTorch.md#%E5%B0%86numpy%E6%95%B0%E7%BB%84%E8%BD%AC%E5%8C%96%E4%B8%BAtorch%E5%BC%A0%E9%87%8F)
   * [CUDA上的张量](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/What_is_PyTorch/什么是PyTorch.md#cuda上的张量)
 
-### Autograd：自动求导
+### 3.2、Autograd：自动求导
 
   * [张量](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Autograd_Automatic_Differentiation/Autograd%EF%BC%9A自动求导.md#%E5%BC%A0%E9%87%8F)
   * [梯度](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Autograd_Automatic_Differentiation/Autograd%EF%BC%9A自动求导.md#%E6%A2%AF%E5%BA%A6)
 
 
-### 神经网络（Neural Networks）
+### 3.3、神经网络（Neural Networks）
 
   * [定义网络](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Neural_Networks/神经网络.md#定义网络)
   * [损失函数](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Neural_Networks/神经网络.md#损失函数)
   * [反向传播](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Neural_Networks/神经网络.md#反向传播)
   * [更新权重](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Neural_Networks/神经网络.md#更新权重)
 
-### 训练分类器（Training a Classifier）
+### 3.4、训练分类器（Training a Classifier）
 
   * [数据呢？](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Training_a_Classifier/训练分类器.md#数据呢)
   * [训练一个图片分类器](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Training_a_Classifier/训练分类器.md#训练一个图片分类器)
@@ -58,7 +73,7 @@
   * [在多GPU上训练](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Training_a_Classifier/训练分类器.md#在多gpu上训练)
   * [接下来要做什么？](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Training_a_Classifier/训练分类器.md#接下来要做什么)
 
-### 选读：数据并行处理（Optional: Data Parallelism）
+### 3.5 选读：数据并行处理（Optional: Data Parallelism）
 
   * [导入和参数](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Optional_Data_Parallelism/数据并行处理.md#导入和参数)
   * [虚拟数据集](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Optional_Data_Parallelism/数据并行处理.md#虚拟数据集)
@@ -72,14 +87,14 @@
   * [总结](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn/blob/master/Optional_Data_Parallelism/数据并行处理.md#总结)
 
 
-## 类似项目
+## 4、类似项目
 
 * [用例子学习 PyTorch](https://github.com/bat67/pytorch-examples-cn)
 * [PyTorch 教程、例子和书籍](https://github.com/bat67/pytorch-tutorials-examples-and-books)
 * [PyTorch 深度学习：60分钟入门与实战](https://github.com/bat67/Deep-Learning-with-PyTorch-A-60-Minute-Blitz-cn)
 
 
-## 版权信息
+## 5、版权信息
 
 除非额外说明，本仓库的所有公开文档均遵循[署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)许可协议。
 
